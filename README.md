@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MeloVoice_V1](https://github.com/aminammar1/MeloVoice.git)
 
-- 🌱 I’m currently learning **Flutter,NodeJS,Spring boot ,Laravel,Django**
+- 🌱 I’m currently learning **Flutter,NodeJS**
 
 - 📫 How to reach me **ammar.mohamdamine@gmail.com**
 
