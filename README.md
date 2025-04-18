@@ -61,8 +61,8 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-ammar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://aminammar1.github.io/My-Portfolio-ReactJS/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
+  <a href="https://my-portfolio-next-js-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
 </div>
 
