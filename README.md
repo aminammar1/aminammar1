@@ -2,15 +2,16 @@
 <p align="center"><em>Full Stack Developer | Tunisia 🇹🇳</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-Proficient-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NestJS-Advanced-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Go-Enthusiast-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-Expert-333333?style=flat-square&logo=typescript&logoColor=3DDC84" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-Advanced-333333?style=flat-square&logo=react&logoColor=3DDC84" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Proficient-333333?style=flat-square&logo=next.js&logoColor=3DDC84" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-Advanced-333333?style=flat-square&logo=nestjs&logoColor=3DDC84" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Go-Enthusiast-333333?style=flat-square&logo=go&logoColor=3DDC84" alt="Go" />
 </p>
 
 <p align="center">
-  <em>"Crafting elegant solutions to complex problems, one line of code at a time."</em>
+  <em>"If you wish to succeed, you must brave the risk of failure."</em><br>
+  <strong>— Garry Kasparov</strong>
 </p>
 
 <hr>
@@ -22,7 +23,7 @@ const amine = {
   focus: ["Web Development", "Clean Architecture", "User Experience"],
   currentlyLearning: "Advanced System Design",
   hobbies: ["Chess ♟", "Problem Solving", "Continuous Learning"],
-  motto: "Simplicity is the ultimate sophistication"
+  motto: "Like in chess, success in development comes from thinking several moves ahead"
 };
 ```
 
@@ -35,39 +36,45 @@ const amine = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminammar1&theme=tokyonight" width="100%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aminammar1&show_icons=true&bg_color=0D1117&text_color=3DDC84&border_color=3DDC84&icon_color=3DDC84&title_color=3DDC84&hide_border=false" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&bg_color=0D1117&text_color=3DDC84&border_color=3DDC84&title_color=3DDC84&hide_border=false" width="49%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminammar1&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminammar1&theme=black-ice&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84&hide_border=false" width="98%" />
+  </a>
 </div>
 
 ### 🌱 Current Projects
 
-- Building scalable microservices with NestJS and Docker
-- Developing modern web applications with Next.js and TypeScript
-- Exploring system design patterns for high-performance applications
+- 🔄 Building scalable microservices with NestJS and Docker
+- 💻 Developing modern web applications with Next.js and TypeScript
+- 🧩 Exploring system design patterns for high-performance applications
 
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-ammar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=3DDC84" alt="LinkedIn" height="28"/>
   </a>
   <a href="mailto:ammar.mohamdamine@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=3DDC84" alt="Gmail" height="28"/>
   </a>
   <a href="https://www.instagram.com/amine_ammr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=3DDC84" alt="Instagram" height="28"/>
   </a>
   <a href="https://my-portfolio-next-js-one.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" height="28"/>
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=next.js&logoColor=3DDC84" alt="Portfolio" height="28"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminammar1&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aminammar1&style=flat-square&color=3DDC84" alt="Profile Views"/>
 </p>
 
 <div align="center">
