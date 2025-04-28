@@ -2,11 +2,11 @@
 <p align="center"><em>Full Stack Developer | Tunisia 🇹🇳</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Expert-333333?style=flat-square&logo=typescript&logoColor=3DDC84" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-Advanced-333333?style=flat-square&logo=react&logoColor=3DDC84" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-Proficient-333333?style=flat-square&logo=next.js&logoColor=3DDC84" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NestJS-Advanced-333333?style=flat-square&logo=nestjs&logoColor=3DDC84" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Go-Enthusiast-333333?style=flat-square&logo=go&logoColor=3DDC84" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=3DDC84" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=3DDC84" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=next.js&logoColor=3DDC84" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-333333?style=flat-square&logo=nestjs&logoColor=3DDC84" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Go-333333?style=flat-square&logo=go&logoColor=3DDC84" alt="Go" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ const amine = {
 
 ### 🌱 Current Projects
 
-- 🔄 Building scalable microservices with NestJS and Docker
+- 🔄 Building scalable microservices with GO and Docker
 - 💻 Developing modern web applications with Next.js and TypeScript
 - 🧩 Exploring system design patterns for high-performance applications
 
