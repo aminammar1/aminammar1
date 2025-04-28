@@ -1,63 +1,75 @@
 <h1 align="center">Mohamed Amine Ammar</h1>
-<h3 align="center">Full Stack Developer | Tunisia 🇹🇳</h3>
+<p align="center"><em>Full Stack Developer | Tunisia 🇹🇳</em></p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+building+high-impact+solutions;Crafting+code+with+precision+and+purpose" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Proficient-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-Advanced-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Go-Enthusiast-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+</p>
 
----
+<p align="center">
+  <em>"Crafting elegant solutions to complex problems, one line of code at a time."</em>
+</p>
+
+<hr>
 
 ### 🧠 About Me
-- 💻 Full Stack Developer specialized in **TypeScript**, **React**, **Next.js**, **NestJS**, and **Go**.
-- ♟ Chess enthusiast — always thinking a few moves ahead.
-- 🛠️ Driven by clean architecture and scalable code.
-- 📈 Always improving, learning, and refining.
 
----
+```javascript
+const amine = {
+  focus: ["Web Development", "Clean Architecture", "User Experience"],
+  currentlyLearning: "Advanced System Design",
+  hobbies: ["Chess ♟", "Problem Solving", "Continuous Learning"],
+  motto: "Simplicity is the ultimate sophistication"
+};
+```
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,go,docker,electron,redux,git,figma&theme=dark" />
+</p>
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="Express" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="NestJS" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="Go" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="Electron" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminammar1&theme=tokyonight" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminammar1&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+### 🌱 Current Projects
+
+- Building scalable microservices with NestJS and Docker
+- Developing modern web applications with Next.js and TypeScript
+- Exploring system design patterns for high-performance applications
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-amine-ammar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ammar.mohamdamine@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/amine_ammr/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://my-portfolio-next-js-one.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-ammar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="mailto:ammar.mohamdamine@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
+  </a>
+  <a href="https://www.instagram.com/amine_ammr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
+  </a>
+  <a href="https://my-portfolio-next-js-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" height="28"/>
+  </a>
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminammar1&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</div>
-
----
-
-<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aminammar1/aminammar1/output/snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=aminammar1&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aminammar1/aminammar1/output/snake.svg" alt="Snake animation" />
+</div>
