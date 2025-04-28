@@ -16,7 +16,7 @@
 
 <hr>
 
-### 🧠 About Me
+### 🌟 About Me
 
 ```javascript
 const amine = {
@@ -37,17 +37,19 @@ const amine = {
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminammar1&show_icons=true&bg_color=0D1117&text_color=3DDC84&border_color=3DDC84&icon_color=3DDC84&title_color=3DDC84&hide_border=false" width="49%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&bg_color=0D1117&text_color=3DDC84&border_color=3DDC84&title_color=3DDC84&hide_border=false" width="49%" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminammar1&theme=github_dark&border_color=3DDC84" width="100%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminammar1&theme=black-ice&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84&hide_border=false" width="98%" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminammar1&show_icons=true&bg_color=0D1117&text_color=3DDC84&border_color=3DDC84&icon_color=3DDC84&title_color=3DDC84&hide_border=false" width="47%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminammar1&theme=black-ice&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84&hide_border=false" width="47%" />
+</div>
+
+<div align="center">
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&bg_color=0D1117&text_color=3DDC84&border_color=3DDC84&title_color=3DDC84&hide_border=false" width="47%" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=aminammar1&theme=darkhub&column=3&row=1&margin-w=15&margin-h=15&no-frame=false" width="47%" height="115px" />
 </div>
 
 ### 🌱 Current Projects
