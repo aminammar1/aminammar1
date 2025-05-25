@@ -48,7 +48,7 @@ I’m a Full Stack Developer specializing in scalable web applications and clean
   <a href="mailto:ammar.mohamdamine@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://my-portfolio-next-js-one.vercel.app/" target="_blank">
+  <a href="https://mohamedamineammar-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=next.js&logoColor=white" alt="Portfolio" />
   </a>
 </p>
