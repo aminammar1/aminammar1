@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## 🟠  stats
+## 🟠  about
 
 <img align="right" alt="Energy aura lab" width="430" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJreW1uYjAxNGpza2U3cTliZHl3dzJpa20wM3RvcGp0NGJlYTlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwETlPpI0fS3c3Fcic/giphy.gif" />
 
