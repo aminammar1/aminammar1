@@ -1,23 +1,42 @@
-<!-- Save as orange-line.svg in your repo, then use ![line](./orange-line.svg) in README -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="12" viewBox="0 0 800 12" preserveAspectRatio="none">
+<!-- dragon-ball-energy-line.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 12" width="100%" height="12" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%">
-      <stop offset="0"   stop-color="#ff7a00"/>
-      <stop offset="0.5" stop-color="#ffd27a"/>
-      <stop offset="1"   stop-color="#ff7a00"/>
-      <!-- animate gradient position -->
-      <animate attributeName="x1" values="0%;100%;0%" dur="2.2s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;0%;100%" dur="2.2s" repeatCount="indefinite"/>
+    <linearGradient id="dbEnergy" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b00">
+        <animate attributeName="stop-color" values="#ff6b00;#ff9500;#ff6b00" dur="0.8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#ffea00">
+        <animate attributeName="stop-color" values="#ffea00;#ffff00;#ffea00" dur="0.8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff6b00">
+        <animate attributeName="stop-color" values="#ff6b00;#ff9500;#ff6b00" dur="0.8s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
 
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="dbGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -8" result="glow"/>
+      <feBlend in="SourceGraphic" in2="glow" mode="screen"/>
+    </filter>
+
+    <filter id="sparkle">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" result="turbulence"/>
+      <feDisplacementMap in2="turbulence" in="SourceGraphic" scale="2" xChannelSelector="R" yChannelSelector="G"/>
     </filter>
   </defs>
 
-  <rect x="0" y="1" width="100%" height="10" rx="6" ry="6" fill="url(#g)" filter="url(#glow)"/>
+  <!-- Main energy core -->
+  <rect x="0" y="3" width="800" height="6" fill="url(#dbEnergy)" filter="url(#dbGlow)" opacity="0.9">
+    <animate attributeName="height" values="6;8;6" dur="0.6s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Electric sparks effect -->
+  <rect x="0" y="0" width="800" height="12" fill="url(#dbEnergy)" opacity="0.3" filter="url(#sparkle)">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="0.4s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Bright center highlight -->
+  <rect x="0" y="4" width="800" height="4" fill="#ffff99" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.9;0.7" dur="0.5s" repeatCount="indefinite" />
+  </rect>
 </svg>
