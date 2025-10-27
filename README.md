@@ -92,7 +92,7 @@ console.log('🟠 Saiyan dev console online.')
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=aminammar1&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Profile Trophies" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=aminammar1&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Profile Trophies" />
 
 ```yaml
 training_focus:
