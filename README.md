@@ -21,7 +21,7 @@
 
 ## 🟠  about
 
-<img align="right" alt="Energy aura lab" width="430" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJreW1uYjAxNGpza2U3cTliZHl3dzJpa20wM3RvcGp0NGJlYTlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwETlPpI0fS3c3Fcic/giphy.gif" />
+<img align="right" alt="Energy aura lab" width="430" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJqaWU0MTNrNzk2ZmxhYmVieXlhcGJmYzQ5cWRmMG9obXJyZXRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif" />
 
 ```javascript
 const devProfile = {
