@@ -65,23 +65,6 @@ console.log('🟠 Saiyan dev console online.')
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## 🟠 Activity monitor
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=aminammar1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=F58220&text_color=E8E8E8&icon_color=F58220&bg_color=0d1117&ring_color=F58220"/>
-</td>
-<td width="50%">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminammar1&layout=compact&langs_count=8&theme=dracula&hide_border=true&title_color=F58220&text_color=E8E8E8&bg_color=0d1117"/>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## 🟠 Milestones wall
 
 <div align="center">
