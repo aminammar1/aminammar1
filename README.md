@@ -7,19 +7,15 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Main Header & Tech Stack -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=1500&pause=800&color=F58220&center=true&vCenter=true&width=1000&height=120&lines=MOHAMED+AMINE+AMMAR+%7C+Full+Stack+Developer;React%2FNext.js+%7C+NestJS%2FGo+%7C+Docker%2FFigma;Building+Scalable+Apps+%7C+Clean+Architecture" alt="Header & Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=1500&pause=800&color=F58220&center=true&vCenter=true&width=1000&height=120&lines=MOHAMED+AMINE+AMMAR+%7C+Full+Stack+Developer;React%2FNext.js+%7C+NestJS%2FGo+%7C+Docker%2FFigma;Building+Scalable+Apps+%7C+Clean+Architecture" alt="Header & Tech Stack" />
+
+<img src="https://media1.tenor.com/m/I6kN-6X7nhAAAAAd/dbz-dragon-ball-z.gif" width="720" alt="Super Saiyan power-up" />
+
+<img src="./orange-line.svg" width="100%" alt="separator" />
+
 </div>
 
-<!-- Hero Energy GIF -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNhN2JwaWVlM3E0MnJjNDZzeW93ODF0bDMzdnJob2k3ZXA2NHgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlM7J1gbWvjos/giphy.gif" width="720" alt="Goku powering up">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-## 🟠  about
+## 🟠 about
 
 <img align="right" alt="Energy aura lab" width="430" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJqaWU0MTNrNzk2ZmxhYmVieXlhcGJmYzQ5cWRmMG9obXJyZXRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif" />
 
@@ -52,18 +48,21 @@ const devProfile = {
 console.log('🟠 Saiyan dev console online.')
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">
+  <img src="./orange-line.svg" width="100%" alt="separator" />
+</div>
 
-
-
-## 🟠 skills 
+## 🟠 skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nestjs,go,nodejs,docker,git,figma&theme=dark&perline=9" alt="Tech stack icons" />
+  <br /><br />
+  <img src="https://media1.tenor.com/m/8fM8M2zQ5X4AAAAd/goku-dragon-ball.gif" width="360" alt="Dragon Ball training" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<div align="center">
+  <img src="./orange-line.svg" width="100%" alt="separator" />
+</div>
 
 ## 🟠 Milestones wall
 
@@ -87,7 +86,9 @@ training_focus:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">
+  <img src="./orange-line.svg" width="100%" alt="separator" />
+</div>
 
 ## 🐉 Active Development Focus
 
@@ -150,12 +151,14 @@ intensity: 'steady'
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">
+  <img src="./orange-line.svg" width="100%" alt="separator" />
+</div>
 
 ## 🟠 Communication
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmdzltOThoM3Z0cmQ0N2s4cWI1aTAxdjF4NmYxc2g0Ym5zcjFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRn7VejIgqJIQ/giphy.gif" width="420" alt="Energy link">
+  <img src="https://media1.tenor.com/m/t796Lg5fORAAAAAd/str-super-saiyan-goku-super-saiyan-gohan-youth-warriors-entrusted-with-earths-fate.gif" width="440" alt="Energy link">
 
 ### 🐲 Connection established
 
@@ -183,33 +186,12 @@ const contact = {
 }
 ```
 
-</div>
+<img src="./orange-line.svg" width="100%" alt="separator" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://komarev.com/ghpvc/?username=aminammar1&label=Visitors&color=F58220&style=for-the-badge" alt="Profile views badge" />
+<br /><br />
+<blockquote style="font-style: italic; color: #FF6600;">
+  "Power comes in response to a need, not a desire. You have to create that need." – Goku
+</blockquote>
 
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/t796Lg5fORAAAAAd/str-super-saiyan-goku-super-saiyan-gohan-youth-warriors-entrusted-with-earths-fate.gif" width="480" alt="Aura core">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminammar1&label=Visitors&color=F58220&style=for-the-badge" alt="Profile views badge" />
-  <br /><br />
-  <blockquote style="font-style: italic; color: #FF6600;">
-    "Power comes in response to a need, not a desire. You have to create that need." – Goku
-  </blockquote>
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNhN2JwaWVlM3E0MnJjNDZzeW93ODF0bDMzdnJob2k3ZXA2NHgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlM7J1gbWvjos/giphy.gif" width="100%" alt="Footer energy wave">
-  
-  ```ascii
-  ╔════════════════════════════════════════════════════════════════════════════╗
-  ║  ✅ TRANSMISSION COMPLETE │ ⚡ KEEP TRAINING │ 🟠 ENERGY: RISING          ║
-  ╚════════════════════════════════════════════════════════════════════════════╝
-  ```
 </div>
