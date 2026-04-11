@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=1500&pause=800&color=F58220&center=true&vCenter=true&width=1000&height=120&lines=MOHAMED+AMINE+AMMAR+%7C+Full+Stack+Developer;React%2FNext.js+%7C+NestJS%2FGo+%7C+Docker%2FFigma;Building+Scalable+Apps+%7C+Clean+Architecture" alt="Header & Tech Stack" />
 
-<img src="https://media1.tenor.com/m/I6kN-6X7nhAAAAAd/dbz-dragon-ball-z.gif" width="720" alt="Animated GIF of Dragon Ball character transformation to Super Saiyan" />
+<img src="https://media1.tenor.com/m/I6kN-6X7nhAAAAAd/dbz-dragon-ball-z.gif" width="720" alt="Animated GIF of Goku transforming to Super Saiyan" />
 
 <img src="./orange-line.svg" width="100%" alt="orange divider line" />
 
@@ -57,7 +57,7 @@ console.log('🟠 Saiyan dev console online.')
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nestjs,go,nodejs,docker,git,figma&theme=dark&perline=9" alt="Tech stack icons" />
   <br /><br />
-  <img src="https://media1.tenor.com/m/8fM8M2zQ5X4AAAAd/goku-dragon-ball.gif" width="360" alt="Animated GIF showing Dragon Ball character in training sequence" />
+  <img src="https://media1.tenor.com/m/8fM8M2zQ5X4AAAAd/goku-dragon-ball.gif" width="360" alt="Animated GIF of Goku in training sequence" />
 </div>
 
 <div align="center">
