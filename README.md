@@ -171,18 +171,25 @@
 <img src="./assets/cards/contact.svg" width="800" alt="Contact: LinkedIn mohamed-amine-ammar, email ammar.mohamdamine@gmail.com, portfolio mohamedamineammar-portfolio.vercel.app, GitHub aminammar1. Response time usually within a day. Open for learning, collaboration, junior opportunities." />
 
 </div>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                           FINAL STATE                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <div align="center">
+
+<br><br>
+
 <img
   src="https://media1.tenor.com/m/p7h2G0iVjb8AAAAd/goku-ultra-instinct.gif"
   width="640"
   alt="Goku Ultra Instinct"
 />
-<br><br>
+
+<br><br><br>
+
 <blockquote style="font-style: italic; color: #FFD43B; max-width: 760px; margin: auto;">
-    "Power comes in response to a need, not a desire. You have to create that need." – Goku
+  "Power comes in response to a need, not a desire. You have to create that need." – Goku
 </blockquote>
+
+<br><br>
+
 </div>
