@@ -1,42 +1,25 @@
 <div align="center">
-
 <!--
   MODERN SAIYAN UI — PROGRAMMING POWER PROGRESSION
   Visual progression at the top intentionally uses transformation imagery only.
   No transformation names are shown in the UI; the labels are programming concepts.
-
-  Visual references:
-  SSJ1 / top image: https://tenor.com/view/goku-super-saiyan-super-saiyan-goku-ssj-transforming-gif-11980209914392833256
-  SSJ2 / top image: https://gifs.alphacoders.com/gifs/view/208014
-  SSJ3 / top image: https://tenor.com/view/goku-ssj3-power-up-gif-25641530
-  SSJ4 / top image: https://tenor.com/view/goku-ssj4-goku-dragon-ball-dragon-ball-daima-ssj4-goku-kamehameha-gif-3303287068179576532
-  SSJ5 / top image: https://tenor.com/search/pictures-of-goku-super-saiyan-5-gifs
-  SSJ6 / fan artwork: https://www.pinterest.com/pin/694187730048093669/
-  SSJ7 / fan artwork: https://www.deviantart.com/chronofz/art/Goku-Super-Saiyan-7-820012990
 -->
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     POWER PIPELINE — ONLINE                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://media1.tenor.com/m/pkJBcXn_bOgAAAAd/goku-super-saiyan.gif" width="760" alt="Transformation energy" />
-
+<img src="https://media1.tenor.com/m/fVDZ47I2dOgAAAAd/dragon-ball-z-goku.gif" width="760" alt="Transformation image" />
 <br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=1700&pause=800&color=FFD43B&center=true&vCenter=true&width=1000&height=100&lines=MOHAMED+AMINE+AMMAR+%7C+Full+Stack+Developer;React%2FNext.js+%7C+NestJS%2FGo+%7C+Docker%2FFigma;Building+Scalable+Apps+%7C+Clean+Architecture" alt="Header & Tech Stack" />
-
 <br>
-
 <img src="https://img.shields.io/badge/BUILD%20PIPELINE-ACTIVE-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Build Pipeline Active" />
 <img src="https://img.shields.io/badge/RUNTIME-ONLINE-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Runtime Online" />
 <img src="https://img.shields.io/badge/QUALITY-SHARP-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Quality Sharp" />
-
 <br><br>
 
 <!-- Transformation images: images only, no visible form names -->
 <table align="center" border="0" cellpadding="8" cellspacing="0">
 <tr>
-<td align="center"><img src="https://media1.tenor.com/m/pkJBcXn_bOgAAAAd/goku-super-saiyan.gif" width="112" alt="Transformation image" /></td>
+<td align="center"><img src="https://media1.tenor.com/m/fVDZ47I2dOgAAAAd/dragon-ball-z-goku.gif" width="112" alt="Transformation image" /></td>
 <td align="center"><img src="https://giffiles.alphacoders.com/208/208014.gif" width="112" alt="Transformation image" /></td>
 <td align="center"><img src="https://media1.tenor.com/m/SgctN3YEmj8AAAAd/goku-ssj3.gif" width="112" alt="Transformation image" /></td>
 <td align="center"><img src="https://media1.tenor.com/m/LdeiFkH8NtQAAAAd/goku-ssj4-goku.gif" width="112" alt="Transformation image" /></td>
@@ -55,172 +38,112 @@
 </tr>
 </table>
 <br>
-
-<!-- One consistent gold divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=4&section=header" width="100%" alt="Gold energy divider" />
-
 </div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                              ABOUT                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🟠  about
 
-<img align="right" alt="Energy aura lab" width="390" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJqaWU0MTNrNzk2ZmxhYmVieXlhcGJmYzQ5cWRmMG9obXJyZXRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif" />
-
-```javascript
-const devProfile = {
-  name: 'Mohamed Amine Ammar',
-  role: 'Full Stack Developer',
-  location: 'Tunisia 🇹🇳',
-  focus: [
-    'Scalable web applications',
-    'Clean architecture',
-    'Microservices',
-    'System design & UX',
-  ],
-
-  ki_state: {
-    mindset: 'consistent reps, honest feedback, small wins',
-    energy: 'steady and growing',
-    training_arc: 'shipping and learning in public',
-    philosophy: 'readability > cleverness; measure, then optimize',
-  },
-
-  frontend: ['React', 'Next.js', 'TypeScript'],
-  backend: ['NestJS', 'Go', 'Node.js'],
-  devops: ['Docker', 'Git'],
-  design: ['Figma'],
-
-}
-
-console.log('🟠 Saiyan dev console online.')
-```
-
-<br clear="both">
-
-<div align="center">
-
-<img src="https://media1.tenor.com/m/pJDK36dmiV8AAAAd/goku-ssj2.gif" width="620" alt="Powering up" />
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATE-CHARGING-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="State Charging" />
-<img src="https://img.shields.io/badge/ENERGY-GROWING-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Energy Growing" />
-<img src="https://img.shields.io/badge/FOCUS-SHARP-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Focus Sharp" />
-
-</div>
+<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <!-- Left: profile card -->
+    <td align="center" width="55%" valign="middle">
+      <img src="./assets/cards/profile.svg" width="100%" alt="devProfile: Mohamed Amine Ammar, Full Stack Developer, Tunisia. Focus: scalable web applications, clean architecture, microservices, system design and UX." />
+    </td>
+    <!-- Right: Gohan + Goku stacked -->
+    <td align="center" width="45%" valign="middle">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJqaWU0MTNrNzk2ZmxhYmVieXlhcGJmYzQ5cWRmMG9obXJyZXRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif" width="280" alt="Energy aura lab" /><br><br>
+      <img src="https://media1.tenor.com/m/pJDK36dmiV8AAAAd/goku-ssj2.gif" width="320" alt="Powering up" />
+    </td>
+  </tr>
+</table>
 
 <br>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/STATE-CHARGING-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="State Charging" />
+  <img src="https://img.shields.io/badge/ENERGY-GROWING-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Energy Growing" />
+  <img src="https://img.shields.io/badge/FOCUS-SHARP-0B0D10?style=for-the-badge&labelColor=FFD43B&color=0B0D10" alt="Focus Sharp" />
 </div>
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                              SKILLS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🟠 skills
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nestjs,go,nodejs,docker,git,figma&theme=dark&perline=9" alt="Tech stack icons" />
-
 <br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/FRONTEND-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Frontend" />
-<img src="https://img.shields.io/badge/BACKEND-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Backend" />
-<img src="https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Devops" />
-<img src="https://img.shields.io/badge/DESIGN-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Design" />
-</div>
-
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/FRONTEND-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Frontend" /></td>
+<td align="center"><img src="https://img.shields.io/badge/BACKEND-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Backend" /></td>
+<td align="center"><img src="https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Devops" /></td>
+<td align="center"><img src="https://img.shields.io/badge/DESIGN-111111?style=for-the-badge&labelColor=FFD43B&color=111111" alt="Design" /></td>
+</tr>
+</table>
 <br>
-
 <img src="https://media1.tenor.com/m/SgctN3YEmj8AAAAd/goku-ssj3.gif" width="650" alt="Training energy" />
-
 </div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         MILESTONES WALL                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🟠 Milestones wall
-
 <div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  🎯 PERSONAL CHECKPOINTS | RANK: SAIYAN IN TRAINING | XP: GROWING          ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=aminammar1&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Profile Trophies" />
-
-<br><br>
-
-```yaml
-training_focus:
-  - 'Scalable web apps with clean boundaries'
-  - 'Microservices fundamentals + messaging'
-  - 'API contracts with strong TS types'
-  - 'UX that respects user flow and time'
-```
-
+<img src="./assets/cards/checkpoints.svg" width="800" alt="Personal checkpoints | Rank: Saiyan in training | XP: growing" />
 <br>
-
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=aminammar1&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Profile Trophies" />
+<br><br>
+<img src="./assets/cards/training-focus.svg" width="800" alt="Training focus: scalable web apps with clean boundaries, microservices fundamentals and messaging, API contracts with strong TS types, UX that respects user flow and time." />
+<br>
 <img src="https://media1.tenor.com/m/LdeiFkH8NtQAAAAd/goku-ssj4-goku.gif" width="700" alt="Advanced power" />
-
 </div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    ACTIVE DEVELOPMENT FOCUS                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🐉 Active Development Focus
-
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVnenFtbWJhd3d0cGRqbTJqOG0xdXQ0YzRvMjFtcWUwM2k0ajFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYhXxqjugpuKI/giphy.gif" width="520" alt="Training aura" />
 </div>
-
 <br>
 
-<!-- Cards live in assets/cards/ (4 SVG files) -->
-<div align="center">
-  <img src="./assets/cards/01-build.svg" width="49%" alt="01 Build - Scalable web applications" />
-  <img src="./assets/cards/02-architect.svg" width="49%" alt="02 Architect - Clean architecture" />
-  <img src="./assets/cards/03-distributed.svg" width="49%" alt="03 Distributed - Microservices and distributed systems" />
-  <img src="./assets/cards/04-experience.svg" width="49%" alt="04 Experience - System design and user experience" />
-</div>
-
+<!-- Cards — forced equal width + consistent gaps for perfect 2×2 alignment -->
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/cards/01-build.svg" width="100%" alt="01 Build - Scalable web applications" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/cards/02-architect.svg" width="100%" alt="02 Architect - Clean architecture" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/cards/03-distributed.svg" width="100%" alt="03 Distributed - Microservices and distributed systems" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/cards/04-experience.svg" width="100%" alt="04 Experience - System design and user experience" />
+    </td>
+  </tr>
+</table>
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=4&section=header" width="100%" alt="Gold energy divider" />
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          COMMUNICATION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🟠 Communication
-
 <div align="center">
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmdzltOThoM3Z0cmQ0N2s4cWI1aTAxdjF4NmYxc2g0Ym5zcjFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRn7VejIgqJIQ/giphy.gif" width="420" alt="Energy link" />
-
 ### 🐲 Connection established
-
 <br>
-
 <a href="https://www.linkedin.com/in/mohamed-amine-ammar" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Amine%20Ammar-FFD43B?style=for-the-badge&logo=linkedin&logoColor=111111" />
 </a>
@@ -233,40 +156,22 @@ training_focus:
 <a href="https://github.com/aminammar1" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-aminammar1-FFD43B?style=for-the-badge&logo=github&logoColor=111111" />
 </a>
-
 <br><br>
-
-```javascript
-const contact = {
-  linkedin: 'mohamed-amine-ammar',
-  email: 'ammar.mohamdamine@gmail.com',
-  portfolio: 'mohamedamineammar-portfolio.vercel.app',
-  github: 'aminammar1',
-  response_time: 'usually within a day',
-  open_for: ['learning', 'collaboration', 'junior opportunities'],
-}
-```
-
+<img src="./assets/cards/contact.svg" width="800" alt="Contact: LinkedIn mohamed-amine-ammar, email ammar.mohamdamine@gmail.com, portfolio mohamedamineammar-portfolio.vercel.app, GitHub aminammar1. Response time usually within a day. Open for learning, collaboration, junior opportunities." />
 </div>
-
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                           FINAL STATE                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img
   src="https://media1.tenor.com/m/p7h2G0iVjb8AAAAd/goku-ultra-instinct.gif"
   width="640"
   alt="Goku Ultra Instinct"
 />
-
 <br><br>
-
 <blockquote style="font-style: italic; color: #FFD43B; max-width: 760px; margin: auto;">
     "Power comes in response to a need, not a desire. You have to create that need." – Goku
 </blockquote>
-
 </div>
