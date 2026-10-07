@@ -140,26 +140,37 @@
 <!--                          COMMUNICATION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 ## 🟠 Communication
+
 <div align="center">
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmdzltOThoM3Z0cmQ0N2s4cWI1aTAxdjF4NmYxc2g0Ym5zcjFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRn7VejIgqJIQ/giphy.gif" width="420" alt="Energy link" />
+
 ### 🐲 Connection established
+
 <br>
+
+<!-- Perfect centered badges -->
 <a href="https://www.linkedin.com/in/mohamed-amine-ammar" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Amine%20Ammar-FFD43B?style=for-the-badge&logo=linkedin&logoColor=111111" />
 </a>
+&nbsp;
 <a href="mailto:ammar.mohamdamine@gmail.com" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Email-ammar.mohamdamine%40gmail.com-FFD43B?style=for-the-badge&logo=gmail&logoColor=111111" />
 </a>
+&nbsp;
 <a href="https://mohamedamineammar-portfolio.vercel.app" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-FFD43B?style=for-the-badge&logo=vercel&logoColor=111111" />
 </a>
+&nbsp;
 <a href="https://github.com/aminammar1" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-aminammar1-FFD43B?style=for-the-badge&logo=github&logoColor=111111" />
 </a>
+
 <br><br>
+
 <img src="./assets/cards/contact.svg" width="800" alt="Contact: LinkedIn mohamed-amine-ammar, email ammar.mohamdamine@gmail.com, portfolio mohamedamineammar-portfolio.vercel.app, GitHub aminammar1. Response time usually within a day. Open for learning, collaboration, junior opportunities." />
+
 </div>
-<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                           FINAL STATE                                -->
